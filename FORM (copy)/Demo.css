@@ -1,0 +1,37 @@
+legend{
+    text-align: center;
+    font-weight: bold;
+    background-color: gainsboro;
+    font-size: 25px;
+    font-family: Chandas;
+}
+label{
+    font-weight: bold;
+    font-family: Chandas;
+    width: 100%;
+}
+.send{
+    background-color: dodgerblue;
+    width: 100%;
+}
+.form{
+    padding: 50px;
+    margin-left: 400px;
+    margin-right: 400px ;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+input{
+    width: 100%;
+    border-radius: 5px;
+}
+body{
+    background-image: url("images/faded2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+textarea{
+    border-radius: 2px;
+    width: 100%;
+}
